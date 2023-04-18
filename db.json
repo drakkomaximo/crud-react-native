@@ -1,0 +1,32 @@
+{
+  "clients": [
+    {
+      "name": "andres",
+      "phone": "cddd",
+      "email": "fffff",
+      "company": "ggggg",
+      "id": 2
+    },
+    {
+      "name": "andres",
+      "phone": "fffff",
+      "email": "ddddd",
+      "company": "Eeee",
+      "id": 3
+    },
+    {
+      "name": "maria",
+      "phone": "xzczxc",
+      "email": "cxzcxzzczxc",
+      "company": "zxczxczxcxzc",
+      "id": 4
+    },
+    {
+      "name": "jairo",
+      "phone": "fff",
+      "email": "fffff",
+      "company": "ffff",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+/* eslint-disable prettier/prettier */
+import {StyleSheet} from 'react-native';
+
+const globalStyles = StyleSheet.create({
+  container:{
+    flex: 1,
+    marginTop: 20,
+    marginHorizontal: '2.5%',
+  },
+  title: {
+    textAlign: 'center',
+    marginTop: 20,
+    marginBottom: 30,
+    fontSize: 30,
+  },
+  fab: {
+    position: 'absolute',
+    margin: 20,
+    right: 0,
+    bottom: 20,
+    borderRadius: 50,
+  },
+});
+
+export default globalStyles;
